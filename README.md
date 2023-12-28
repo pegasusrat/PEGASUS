@@ -46,7 +46,7 @@ Controls can be selected with the mouse (see LayoutInspector for details) to see
 
 ## Dashboard
 
-![Pegasus Spyware](https://i.imgur.com/rRZD6Pm.png)
+![Pegasus Spyware](https://i.imgur.com/VOjitdW.png)
 
 
 # JOIN TELEGRAM https://t.me/phoenixrcu
