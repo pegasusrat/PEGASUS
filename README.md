@@ -42,11 +42,11 @@ Controls can be selected with the mouse (see LayoutInspector for details) to see
 
   
 ## Login System
-![Pegasus]([https://i.imgur.com/7L0RTx2.png](https://i.imgur.com/rRZD6Pm.png))
+![Pegasus](https://i.imgur.com/rRZD6Pm.png))
 
 ## Dashboard
 
-![Pegasus Spyware]([https://i.imgur.com/4AdhtAf.png](https://i.imgur.com/rRZD6Pm.png))
+![Pegasus Spyware](https://i.imgur.com/rRZD6Pm.png))
 
 
 # JOIN TELEGRAM https://t.me/phoenixrcu
